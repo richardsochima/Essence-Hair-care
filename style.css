@@ -90,9 +90,21 @@ header nav ul li a:hover {
 #features {
     background-color: #f9f9f9;
     padding: 80px 0;
+    /* align-items: center;
+    justify-content: center; */
 }
 
-.feature {
+h2 {
+    a
+}
+
+.container {
+    /* justify-content: center;
+    align-content: center;
+    align-items: center; */
+}
+
+.feature1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
